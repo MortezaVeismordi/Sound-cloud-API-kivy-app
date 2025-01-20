@@ -56,15 +56,6 @@ pip install kivy requests
 
 ---
 
-## Screenshots
-![Main Page](https://yourimageurl.com/main_page.png)
-*Main interface with fields for API key, song URL, and download options.*
-
-![Download Progress](https://yourimageurl.com/download_progress.png)
-*Track your downloads with a real-time progress bar.*
-
----
-
 ## Notes
 - Ensure you have a valid SoundCloud API Key. You can register for an API Key at [SoundCloud Developer Portal](https://soundcloud.com/you/apps).
 - Only public tracks are downloadable through the SoundCloud API.
